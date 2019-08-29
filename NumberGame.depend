@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1488914181 source:c:\users\windows\documents\sdlproject\2d game\assets.cpp
+	"assets.h"
+
+1487675571 c:\users\windows\documents\sdlproject\2d game\assets.h
+	<iostream>
+	<SDL.h>
+	<time.h>
+	"defines.h"
+
+1487936863 source:c:\users\windows\documents\sdlproject\2d game\main.cpp
+	<iostream>
+	"game.h"
+	"defines.h"
+
+1487675581 c:\users\windows\documents\sdlproject\2d game\game.h
+	"textureM.h"
+	"fontManager.h"
+	"soundM.h"
+	<iostream>
+	"defines.h"
+	"assets.h"
+
+1484046901 c:\users\windows\documents\sdlproject\2d game\texturem.h
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<map>
+	"defines.h"
+
+1533357372 c:\users\windows\documents\sdlproject\2d game\defines.h
+
+1483804383 c:\users\windows\documents\sdlproject\2d game\fontmanager.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1482936815 c:\users\windows\documents\sdlproject\2d game\soundm.h
+	<SDL_mixer.h>
+	<iostream>
+	<map>
+
+1483858159 source:c:\users\windows\documents\sdlproject\2d game\soundm.cpp
+	"soundM.h"
+
+1483953232 source:c:\users\windows\documents\sdlproject\2d game\texturem.cpp
+	"textureM.h"
+
+1488915429 source:c:\users\windows\documents\sdlproject\2d game\game.cpp
+	"game.h"
+
+1488914181 source:c:\users\windows\documents\sublime\2d game\assets.cpp
+	"assets.h"
+
+1487675571 c:\users\windows\documents\sublime\2d game\assets.h
+	<iostream>
+	<SDL.h>
+	<time.h>
+	"defines.h"
+
+1533357447 c:\users\windows\documents\sublime\2d game\defines.h
+
+1488915429 source:c:\users\windows\documents\sublime\2d game\game.cpp
+	"game.h"
+
+1487675581 c:\users\windows\documents\sublime\2d game\game.h
+	"textureM.h"
+	"fontManager.h"
+	"soundM.h"
+	<iostream>
+	"defines.h"
+	"assets.h"
+
+1484046901 c:\users\windows\documents\sublime\2d game\texturem.h
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<map>
+	"defines.h"
+
+1483804383 c:\users\windows\documents\sublime\2d game\fontmanager.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1482936815 c:\users\windows\documents\sublime\2d game\soundm.h
+	<SDL_mixer.h>
+	<iostream>
+	<map>
+
+1487936863 source:c:\users\windows\documents\sublime\2d game\main.cpp
+	<iostream>
+	"game.h"
+	"defines.h"
+
+1483858159 source:c:\users\windows\documents\sublime\2d game\soundm.cpp
+	"soundM.h"
+
+1483953232 source:c:\users\windows\documents\sublime\2d game\texturem.cpp
+	"textureM.h"
+
+1488914181 source:c:\users\windows\documents\sublime\numbergame\assets.cpp
+	"assets.h"
+
+1487675571 c:\users\windows\documents\sublime\numbergame\assets.h
+	<iostream>
+	<SDL.h>
+	<time.h>
+	"defines.h"
+
+1533357447 c:\users\windows\documents\sublime\numbergame\defines.h
+
+1488915429 source:c:\users\windows\documents\sublime\numbergame\game.cpp
+	"game.h"
+
+1487675581 c:\users\windows\documents\sublime\numbergame\game.h
+	"textureM.h"
+	"fontManager.h"
+	"soundM.h"
+	<iostream>
+	"defines.h"
+	"assets.h"
+
+1484046901 c:\users\windows\documents\sublime\numbergame\texturem.h
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<map>
+	"defines.h"
+
+1483804383 c:\users\windows\documents\sublime\numbergame\fontmanager.h
+	<SDL.h>
+	<SDL_ttf.h>
+
+1482936815 c:\users\windows\documents\sublime\numbergame\soundm.h
+	<SDL_mixer.h>
+	<iostream>
+	<map>
+
+1487936863 source:c:\users\windows\documents\sublime\numbergame\main.cpp
+	<iostream>
+	"game.h"
+	"defines.h"
+
+1483858159 source:c:\users\windows\documents\sublime\numbergame\soundm.cpp
+	"soundM.h"
+
+1483953232 source:c:\users\windows\documents\sublime\numbergame\texturem.cpp
+	"textureM.h"
+

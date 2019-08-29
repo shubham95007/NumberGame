@@ -1,0 +1,7 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+#define P_WINDOW_HEIGHT 600
+#define P_WINDOW_WIDTH 600
+#define P_BUTTON_WIDTH 60
+#define P_BUTTON_HEIGHT 60
+#endif // DEFINES_H
